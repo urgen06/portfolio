@@ -9,7 +9,7 @@ const Projects = () => {
     {
       title: "Expense Tracker (DB) ",
       description: "Developed a CLI-based Expense Tracker in Python using PostgreSQL. Features include adding, viewing, updating, and deleting expenses, along with calculating total spending. Implements persistent storage with a PostgreSQL database and robust input handling.",
-      videoUrl: "/project_videos/exp_csv.webm",
+      videoUrl: "/portfolio/project_videos/exp_csv.webm",
       technologies: ["Python", "PostgreSql", "psycopg2"],
       demoLink: "https://demo-ecommerce.com",
       githubLink: "https://github.com/urgen06/Expense_Tracker_db.git",
@@ -18,7 +18,7 @@ const Projects = () => {
     {
       title: "Expense Tracker (CSV)",
       description: "Built a command-line Expense Tracker in Python, allowing users to add, view, and summarize expenses. Implements CSV file storage for persistent data and provides total spending calculation with input validation.",
-      videoUrl: "/project_videos/exp_csv.webm",
+      videoUrl: "/portfolio/project_videos/exp_csv.webm",
       technologies: ["Python", "CSV module", "File Handling"],
       demoLink: "https://demo-ecommerce.com",
       githubLink: "https://github.com/urgen06/Expense_Tracker.git",
@@ -27,7 +27,7 @@ const Projects = () => {
     {
       title: "Calculator App",
       description: "Developed a GUI-based Calculator in Python using Tkinter, supporting basic arithmetic operations with a responsive interface, clear/error handling, and dynamic input/output display.",
-      videoUrl: "/project_videos/calculator.webm",
+      videoUrl: "/portfolio/project_videos/calculator.webm",
       technologies: ["Python", "Tkinter", "Tailwind CSS"],
       demoLink: "https://demo-tasks.com",
       githubLink: "https://github.com/urgen06/Calculator.git",
@@ -36,7 +36,7 @@ const Projects = () => {
     {
       title: "Weather Dashboard",
       description: "Built a desktop Weather App in Python using Tkinter, integrating OpenWeatherMap API to fetch real-time weather data. Features include city-based search, dynamic temperature display, and weather condition updates with a responsive GUI.",
-      videoUrl: "/project_videos/weather.webm",
+      videoUrl: "/portfolio/project_videos/weather.webm",
       technologies: ["Python", "Tkinter", "OpenWeather API"],
       demoLink: "https://demo-weather.com",
       githubLink: "https://github.com/urgen06/Weather-App.git",
@@ -45,7 +45,7 @@ const Projects = () => {
     {
       title: "Snake Game",
       description: "Developed a Snake Game in Java using Swing, implementing object-oriented principles for the snake and food entities. Features include real-time movement, collision detection, dynamic scoring, and a responsive game loop with keyboard controls",
-      videoUrl: "/project_videos/snakegame.webm",
+      videoUrl: "/portfolio/project_videos/snakegame.webm",
       technologies: ["Java"],
       // demoLink: "https://demo-analytics.com",
       githubLink: "https://github.com/urgen06/snakegame_java.git",
