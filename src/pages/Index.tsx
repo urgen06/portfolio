@@ -20,7 +20,7 @@ const Index = () => {
               <div className="w-full h-full rounded-2xl bg-card flex items-center justify-center overflow-hidden">
                 <div className="w-full h-full bg-gradient-to-br from-primary/20 to-accent/20 flex items-center justify-center">
                     <img
-                      src="/urgen.png"
+                      src="urgen.png"
                       alt="Profile"
                       className="w-64 h-64 object-contain rounded-2xl"
                     />
